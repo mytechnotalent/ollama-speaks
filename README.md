@@ -3,5 +3,4 @@
 </div>
 
 # Ollama Speaks
-
-[![Discord](https://dcbadge.vercel.app/api/server/ollama?style=flat&compact=true)](https://discord.gg/ollama)
+Get up and running with Llama 2 and other large language models locally with a speech mod.
